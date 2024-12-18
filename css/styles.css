@@ -1,0 +1,130 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: left;
+    color: rgb(55, 45, 45);
+    font-weight: 300;
+    margin-left: 20px;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+h2 {
+    color: darkred;
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 1.8rem;
+}
+
+.main-section {
+    margin-top: 10%;
+}
+
+.main-section2 {
+    margin-top: 10%;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.image {
+    border-radius: 10px;
+    height: 500px;
+} 
+
+.main-bio {
+    line-height: 1.9;
+    max-width: 75%;
+   margin-left: 10%;
+}
+
+.cara-img3 {
+    height: 400px;
+    width: 700px;
+    margin-top: 50px;
+}
+
+.card-content .source {
+    font-size: 15px;
+}
+
+.cara-img-caption {
+    font-size: 1.3rem;
+}
+
+span {
+    text-decoration: underline gray;
+    
+}
+
+
+.card-footer {
+    margin-top: 50px;
+}
+
+.card-footer a {
+    text-decoration: none;
+    background-color: rgb(232, 115, 115);
+    color: white;
+    padding: 20px;
+    border-radius: 7px;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.3);
+}
+
+.card-footer a:hover {
+    background-color: rgb(197, 70, 70);
+}
+
+.card-footer a:active {
+    background-color: darkred;
+}
+
+.card-content p {
+    font-size: 1.2rem;
+    margin-top: 50px;
+    font-weight: 100;
+}
+
+.home-container a {
+    text-decoration: none;
+    background-color: rgb(232, 115, 115);
+    color: white;
+    padding: 20px;
+    border-radius: 7px;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.3);
+}
+
+
+.home-container {
+    margin-top: 10%;
+}
+
+
+.home-container a:hover {
+    background-color: rgb(197, 70, 70);
+}
+
+.home-container a:active {
+    background-color: darkred;
+}
+
+
+.main-footer {
+    margin-top: 100px;
+    color: #fff;
+    background-color: rgb(55, 45, 45);
+    padding: 20px;
+}
+   
+
+
